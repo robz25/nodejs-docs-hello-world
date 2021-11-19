@@ -52,5 +52,5 @@ jobs:
         with:
           app-name: 'robingonNodeJs'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_F4877E7251B2406286A2E1246D10C01E }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_8730FD806FC74EDB9887F22746C2BBC8 }}
           package: .
